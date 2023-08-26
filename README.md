@@ -1,1 +1,1 @@
-# CalculadoraJS
+Projeto ministrado pelo curso OneBitCode, Desenvolvedor FullStack Javascript Profissional. Uma calculadora com algumas funções extras como troca de tema e botão de copiar para área de transferência, no qual utilizei as tecnologias: JavaScript, HTML e CSS.
